@@ -1,4 +1,5 @@
 import "./App.css";
+import d3 from "d3";
 
 function App() {
   return (
